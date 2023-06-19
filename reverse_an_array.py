@@ -4,7 +4,7 @@ def reverse_array(arr):
     return arr
 arr=[13,2,3,"ada"]
 reverse_array(arr)
-print("new arra=",arr)
+print("revese arr=",arr)
 '''
 #                            OR
 def reverse_arr(arr,start,end):
